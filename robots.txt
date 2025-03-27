@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hantubelau99.github.io/lato99game/.xml

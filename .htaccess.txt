@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^hantubelau99.github.io\.lato99game$ [NC]
+RewriteRule ^ https://hantubelau99.github.io.lato99game%{REQUEST_URI} [L,R=301]
+ErrorDocument 404 https://hantubelau99.github.io/lato99game/
